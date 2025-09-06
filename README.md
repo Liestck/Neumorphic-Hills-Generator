@@ -1,6 +1,6 @@
-# Neumorphic Hills Generator 🏞️
+# 🏞️ Neumorphic Hills Generator 
 Практика Canvas.
 Генерирует случайные неймоморфные холмы.
 
-# Тест
+# 👇 Протестировать
 https://liestck.github.io/Neumorphic-Hills-Generator/
